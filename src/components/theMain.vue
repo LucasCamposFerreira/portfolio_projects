@@ -18,12 +18,21 @@
 
         </div>
       </div>
+      <div class="modal3">
+        <div class="modal-wrapper">
+          <h3 class="titleModal">Github - Login</h3>
+          <img src="../assets/pngwing.com.png" alt="netflix" class="Imgs" />
+          <p><a href="https://github.com/LucasCamposFerreira/pag-github">Clique aqui para ver o repositório ></a></p>
+          <p><a href="https://pag-github.vercel.app/">Clique aqui para ver funcionando ></a></p>
+
+        </div>
+      </div>
     </section>
   </main>
 </template>
 
 <style>
-.modal1, .modal2 {
+.modal1, .modal2, .modal3 {
   width: 60%;
   display: flex;
   justify-content: center;
