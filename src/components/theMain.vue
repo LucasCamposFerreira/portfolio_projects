@@ -5,7 +5,8 @@
         <div class="modal-wrapper">
           <h3 class="titleModal">Wise Goat</h3>
           <img src="../assets/bodezinho.png" alt="bode" class="Imgs" />
-          <p><a href="https://github.com/LucasCamposFerreira/WiseGoat" target="_blank">Clique aqui para acessá-la ></a></p>
+          <p><a href="https://github.com/LucasCamposFerreira/WiseGoat" target="_blank">Clique aqui para ver o repositório ></a></p>
+          <p><a href="https://wise-goat-six.vercel.app/" target="_blank">Clique aqui para ver funcionando ></a></p>
         </div>
       </div>
       <div class="modal2">
