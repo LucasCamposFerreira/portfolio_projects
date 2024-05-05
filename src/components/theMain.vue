@@ -13,7 +13,9 @@
         <div class="modal-wrapper">
           <h3 class="titleModal">Netflix - Login</h3>
           <img src="../assets/netflix.png" alt="netflix" class="Imgs" />
-          <p><a href="https://github.com/LucasCamposFerreira/pag-netflix">Clique aqui para acessá-la ></a></p>
+          <p><a href="https://github.com/LucasCamposFerreira/pag-netflix">Clique aqui para ver o repositório ></a></p>
+          <p><a href="https://pag-netflix.vercel.app/">Clique aqui para ver funcionando ></a></p>
+
         </div>
       </div>
     </section>
